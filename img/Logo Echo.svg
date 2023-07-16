@@ -1,0 +1,22 @@
+<svg id="Composant_3_1" data-name="Composant 3 – 1" xmlns="http://www.w3.org/2000/svg" width="307" height="140" viewBox="0 0 307 140">
+  <text id="C" transform="translate(65 105)" fill="#292929" font-size="100" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">C</tspan></text>
+  <g id="Composant_1_1" data-name="Composant 1 – 1" transform="translate(0 36)">
+    <rect id="Rectangle_99" data-name="Rectangle 99" width="58" height="10" fill="#0090ff"/>
+    <rect id="Rectangle_100" data-name="Rectangle 100" width="58" height="10" transform="translate(0 29)" fill="#0090ff"/>
+    <rect id="Rectangle_101" data-name="Rectangle 101" width="58" height="10" transform="translate(0 59)" fill="#0090ff"/>
+  </g>
+  <text id="Agence_Web" data-name="Agence Web" transform="translate(2 133)" fill="#292929" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.947em"><tspan x="0" y="0">Agence Web</tspan></text>
+  <text id="H" transform="translate(149 105)" fill="#292929" font-size="100" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">H</tspan></text>
+  <text id="O" transform="translate(228 105)" fill="#292929" font-size="100" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">O</tspan></text>
+  <g id="Full_logo" data-name="Full logo">
+    <text id="C-2" data-name="C" transform="translate(65 105)" fill="#292929" font-size="100" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">C</tspan></text>
+    <g id="Composant_1_2" data-name="Composant 1 – 2" transform="translate(0 36)">
+      <rect id="Rectangle_99-2" data-name="Rectangle 99" width="58" height="10" fill="#0090ff"/>
+      <rect id="Rectangle_100-2" data-name="Rectangle 100" width="58" height="10" transform="translate(0 29)" fill="#0090ff"/>
+      <rect id="Rectangle_101-2" data-name="Rectangle 101" width="58" height="10" transform="translate(0 59)" fill="#0090ff"/>
+    </g>
+    <text id="Agence_Web-2" data-name="Agence Web" transform="translate(2 133)" fill="#292929" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.947em"><tspan x="0" y="0">Agence Web</tspan></text>
+    <text id="H-2" data-name="H" transform="translate(149 105)" fill="#292929" font-size="100" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">H</tspan></text>
+    <text id="O-2" data-name="O" transform="translate(228 105)" fill="#292929" font-size="100" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">O</tspan></text>
+  </g>
+</svg>
