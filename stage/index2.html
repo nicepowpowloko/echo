@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inscription / Connexion / Déconnexion en JavaScript</title>
+</head>
+<body>
+  <div id="registration-container">
+    <input type="text" id="reg-username" placeholder="Nom d'utilisateur">
+    <input type="password" id="reg-password" placeholder="Mot de passe">
+    <button onclick="register()">S'inscrire</button>
+  </div>
+
+  <div id="login-container" style="display:none;">
+    <input type="text" id="login-username" placeholder="Nom d'utilisateur">
+    <input type="password" id="login-password" placeholder="Mot de passe">
+    <button onclick="login()">Se connecter</button>
+  </div>
+
+  <div id="logout-container" style="display:none;">
+    <p>Bienvenue, <span id="user-display"></span> !</p>
+    <button onclick="logout()">Se déconnecter</button>
+  </div>
+
+  <script src="script2.js"></script>
+</body>
+</html>

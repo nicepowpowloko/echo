@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+
+    <body>
+  
+      
+
+<div class="container">
+  <div class="square"></div>
+</div>
+
+<div class="container1">
+  <div class="square1"></div>
+</div>
+
+
+<div class="container2">
+  <div class="square2"></div>
+</div>
+
+
+<div class="container3 ">
+  <div class="square3"></div>
+</div>
+
+
+
+
+      </body>
+
+
+
+<style>
+
+body{
+  background-color: black;
+}
+
+
+.container {
+  width: 200px;
+  margin: 50px auto;
+  perspective: 600px;
+
+}
+
+.square {
+  width: 623px;
+  height: 1014px;
+  background-image: url(./img/Composant_11_13.png);
+  transition: transform 0.4s;
+  animation: turn 5s linear infinite;
+ 
+
+}
+
+
+.container1 {
+  width: 200px;
+  margin: 50px auto;
+  perspective: 600px;
+}
+
+.square1 {
+  width: 623px;
+  height: 1014px;
+  background-image: url(./img/Composant_11_13.png);
+  transition: transform 0.4s;
+  animation: turn 5s linear infinite;
+  margin-top: -1000px;
+  margin-left: 600px;
+  position: fixed;
+  
+}
+
+
+.container2 {
+  width: 200px;
+  margin: 50px auto;
+  perspective: 600px;
+}
+
+.square2 {
+  width: 623px;
+  height: 1014px;
+  background-image: url(./img/Composant_11_13.png);
+  transition: transform 0.4s;
+  animation: turn 5s linear infinite;
+  margin-top: -1000px;
+  margin-left: -495px;
+  position: fixed;
+  animation-direction:alternate-reverse ;
+  
+}
+
+
+
+.container3 {
+  width: 200px;
+  margin: 50px auto;
+  perspective: 600px;
+}
+
+.square3 {
+  width: 623px;
+  height: 1014px;
+  background-image: url(./img/Composant_11_13.png);
+  transition: transform 0.4s;
+  animation: turn 5s linear infinite;
+  margin-top: -1000px;
+  margin-left: -1000px;
+  position: fixed;
+  animation-direction:alternate-reverse ;
+ 
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes turn {
+  from {
+    transform: rotateY(0);
+    margin-top: 50%; 
+  }
+  to {
+    transform: rotateY(360deg);
+    margin-bottom: 100%; 
+   
+  }
+}
+
+
+
+
+
+
+
+</style>
+
+
+
+<script>
+
+
+
+
+
+</script>
+
+
+
+</body>
+</html>

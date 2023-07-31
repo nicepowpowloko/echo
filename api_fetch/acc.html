@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inscription / Connexion / Déconnexion en JavaScript avec Fetch API</title>
+</head>
+<body>
+  <div id="registration-container">
+    <input type="text" id="reg-username" placeholder="Nom d'utilisateur">
+    <input type="password" id="reg-password" placeholder="Mot de passe">
+    <button onclick="register()">S'inscrire</button>
+  </div>
+
+  <div id="login-container" style="display:none;">
+    <input type="text" id="login-username" placeholder="Nom d'utilisateur">
+    <input type="password" id="login-password" placeholder="Mot de passe">
+    <button onclick="login()">Se connecter</button>
+  </div>
+
+  <div id="logout-container" style="display:none;">
+    <p>Bienvenue, <span id="user-display"></span> !</p>
+    <button onclick="logout()">Se déconnecter</button>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>
+
+
+<!-- Le script JavaScript est inclus à l'aide de la balise <script> avec l'attribut src qui spécifie le chemin vers le fichier "script.js". Ce fichier contient les fonctions register(), login() et logout() pour gérer les actions d'inscription, de connexion et de déconnexion. -->

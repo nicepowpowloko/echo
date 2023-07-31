@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Connexion / Déconnexion en JavaScript</title>
+</head>
+<body>
+  <div id="login-container">
+    <input type="text" id="username" placeholder="Nom d'utilisateur">
+    <input type="password" id="password" placeholder="Mot de passe">
+    <button onclick="login()">Se connecter</button>
+  </div>
+  <div id="logout-container" style="display:none;">
+    <p>Bienvenue, <span id="user-display"></span> !</p>
+    <button onclick="logout()">Se déconnecter</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
